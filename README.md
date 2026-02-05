@@ -2,6 +2,13 @@
 
 Docker Compose runs the Spring Boot app and a Postgres database.
 
+## Setup env file
+
+Copy the sample environment file and adjust values as needed before starting the stack:
+```sh
+cp .env.example .env
+```
+
 ## Quick start
 
 ```sh
