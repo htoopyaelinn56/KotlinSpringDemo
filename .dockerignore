@@ -1,0 +1,21 @@
+# Gradle / build outputs
+build/
+.gradle/
+
+# IntelliJ / IDE
+.idea/
+*.iml
+out/
+
+# VCS
+.git/
+.gitignore
+
+# OS
+.DS_Store
+
+# Docs / misc
+HELP.md
+
+# Keep Docker context small
+**/*.log
